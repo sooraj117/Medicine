@@ -6,5 +6,11 @@ public class MedicineLogin {
 		
 		System.out.println("log");
 	}
+	
+	public static void main(String args){
+		
+		MedicineLogin l = new MedicineLogin();
+	    log();
+	}
 
 }
